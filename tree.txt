@@ -1,0 +1,9 @@
+.
+├── config.txt
+├── first.txt
+├── ls.txt
+├── README.md
+├── status.txt
+└── tree.txt
+
+1 directory, 6 files
