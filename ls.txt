@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 oleg oleg 4,0K фев  9 19:52 ./
+drwxr-x--- 15 oleg oleg 4,0K фев  9 19:51 ../
+-rw-rw-r--  1 oleg oleg  599 фев  9 19:50 config.txt
+-rw-rw-r--  1 oleg oleg  175 фев  9 19:34 first.txt
+drwxrwxr-x  8 oleg oleg 4,0K фев  9 19:52 .git/
+-rw-rw-r--  1 oleg oleg    0 фев  9 19:52 ls.txt
+-rw-rw-r--  1 oleg oleg   16 фев  9 19:11 README.md
+-rw-rw-r--  1 oleg oleg  408 фев  9 19:35 status.txt
